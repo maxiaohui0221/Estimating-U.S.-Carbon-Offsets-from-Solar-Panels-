@@ -28,8 +28,9 @@ The project was conducted in **R**, involving data cleaning, rigorous statistica
 * **Techniques:** Horvitz-Thompson Estimator, Standard Error Calculation, Confidence Interval Construction.
 
 ## 📂 Data Source
-* **Dataset:** [sunroof.csv](./data(sunroof).csv. (Processed subset)
-* **Original Source:** [Google Project Sunroof via Kaggle](https://www.kaggle.com/datasets/jboysen/google-project-sunroof)
-* **Description:** Contains 909 observations regarding solar potential and carbon offsets across U.S. states.
+* **Dataset:** [data(sunroof).csv](./data(sunroof).csv)
+* **Original Source:** [Google Project Sunroof via Kaggle](https://www.kaggle.com/datasets/jboysen/google-project-sunroof) 
+* **Description:** The dataset contains 909 observations and 31 variables, specifically focusing on `carbon_offset_metric_tons` and `state_name` for sampling simulations.
+  
 ---
 *This project highlights the importance of selecting appropriate sampling designs when dealing with populations that exhibit high between-group variance.*
